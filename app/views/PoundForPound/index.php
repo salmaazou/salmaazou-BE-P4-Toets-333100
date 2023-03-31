@@ -29,4 +29,9 @@
         echo '</table>';
 ?>
 </body>
+
+<footer>
+    <p>© 2021 - UFC</p>
+    
+</footer>
 </html>
