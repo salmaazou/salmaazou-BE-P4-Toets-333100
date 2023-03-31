@@ -38,11 +38,11 @@ CREATE TABLE IF NOT EXISTS `PoundForPound` (
 
 
 INSERT INTO `PoundForPound` (`Id`, `Name`, `Ranking`, `Length`, `Weight`, `Age`, `WinsByKnockout`) VALUES
-(1, 'Anthony Joshua', 1, '2.06', '111', 29, 22),
-(2, 'Tyson Fury', 2, '1.98', '108', 31, 27),
-(3, 'Deontay Wilder', 3, '1.96', '107', 34, 41),
-(4, 'Canelo Alvarez', 4, '1.85', '75', 30, 56),
-(5, 'Errol Spence', 5, '1.88', '77', 31, 24);
+(1, 'Jon Jones', 1, '1.93', '112', 35, 10),
+(2, 'Alexander Volkanovski', 2, '1.68', '66', 34, 12),
+(3, 'Islam Makhachev', 3, '1.78', '70', 31, 4),
+(4, 'Leon Edwards', 4, '1.83', '77', 31, 7),
+(5, 'Israel Adesanya', 5, '1.93', '84', 33, 15);
 --
 
 
