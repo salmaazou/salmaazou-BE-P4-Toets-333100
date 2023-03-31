@@ -1,0 +1,47 @@
+/* Style for the table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 5px solid rgb(113, 243, 215);
+    
+    }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #ddd;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style for the page title */
+  h1 {
+    margin-top: 0;
+    font-size: 28px;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color:rgb(62, 244, 183);
+    text-align: center;
+  }
+  
+  /* Style for the container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+
