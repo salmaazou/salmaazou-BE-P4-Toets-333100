@@ -39,29 +39,4 @@ class database
     }
 }
 
-comments
-
-// Path: app\libraries\Database.php
-// Compare this snippet from app\libraries\Core.php:
-// <?php
-//
-// class Core
-// {
-//     private $currentController = 'PoundForPound';
-//     private $currentMethod = 'index';
-//     private $params = [];
-//  
-//     public function __construct()
-//     {
-//         $url = $this->getURL();
-//
-//        // var_dump($url);
-//
-//        if (file_exists('../app/controllers/' . ucwords($url[0]) . '.php' ))      
-//        {
-//             $this->currentController = ucwords($url[0]);
-//
-//             // Haal de controllername uit het $url array
-//             unset($url[0]);
-//        }
-//
+?>
