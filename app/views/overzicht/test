@@ -1,0 +1,24 @@
+ <!-- <?php foreach ($data['examinatoren'] as $examinator): ?>
+                <?php foreach ($examinator['examens'] as $examen): ?>
+                    <tr>
+                        <td>
+                            <?php echo $examinator['voornaam'] . " " . $examinator['tussenvoegsel'] . " " . $examinator['achternaam']; ?>
+                        </td>
+                        <td>
+                            <?php echo $examen['datum']; ?>
+                        </td>
+                        <td>
+                            <?php echo $examen['rijbewijscategorie']; ?>
+                        </td>
+                        <td>
+                            <?php echo $examen['rijschool']; ?>
+                        </td>
+                        <td>
+                            <?php echo $examen['stad']; ?>
+                        </td>
+                        <td>
+                            <?php echo $examen['uitslag']; ?>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            <?php endforeach; ?> -->
